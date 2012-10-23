@@ -50,28 +50,31 @@
         "Instantiate an object.",
         "Iterate over collections."
       ]
-    }
-  ],
-  "guides": [
-    {
-      "title": "Ruby Core Documentation",
-      "uri": "http://ruby-doc.org/core-1.9.3"
     },
     {
-      "title": "Ruby Library reference in The Pickaxe",
-      "uri": "http://amzn.to/pickaxe-19"
-    },
-    {
-      "title": "Github's Style Guide",
-      "uri": "https://github.com/styleguide/ruby"
-    },
-    {
-      "title": "Ruby Style Guide",
-      "uri": "https://github.com/bbatsov/ruby-style-guide"
-    },
-    {
-      "title": "thoughtbot's Style Guide",
-      "uri": "http://build.thoughtbot.com/style-guide"
+      "name": "Conform to a style guide",
+      "resources": [
+        {
+          "title": "Ruby Core Documentation",
+          "uri": "http://ruby-doc.org/core-1.9.3"
+        },
+        {
+          "title": "Ruby Library reference in The Pickaxe",
+          "uri": "http://amzn.to/pickaxe-19"
+        },
+        {
+          "title": "Github's Style Guide",
+          "uri": "https://github.com/styleguide/ruby"
+        },
+        {
+          "title": "Ruby Style Guide",
+          "uri": "https://github.com/bbatsov/ruby-style-guide"
+        },
+        {
+          "title": "thoughtbot's Style Guide",
+          "uri": "http://build.thoughtbot.com/style-guide"
+        }
+      ]
     }
   ]
 }
