@@ -1,0 +1,98 @@
+{
+  "name": "Design",
+  "description": "Visualy commuicate a message or action with text, images, and shapes.",
+  "steps": [
+    {
+      "name": "First Learn design basics: Visual Principles, Grid Systems, Typopgraphy",
+      "resources": [
+        {
+          "title": "Read Visual Grammar.",
+          "uri": "http://amzn.to/visual-grammar"
+        },
+        {
+          "title": "Grid Systems: Principles of Organizing Type",
+          "uri": "http://amzn.to/grid-systems-principles"
+        },
+        {
+          "title": "Read Thinking with Type",
+          "uri": "http://amzn.to/thinking-with-type"
+        },
+        {
+          "title": "Understanding Color: An Introduction for Designers",
+          "uri": "http://amzn.com/0470381353"
+        }
+      ],
+      "validations": [
+        "Have a basic understanding of visual principles",
+        "Use visual priciples in your design",
+        "Communicate visual design priciples in your work and others",
+        "Create and use a simple grid within your work",
+        "Maintain a clear hierarchy within your work",
+        "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
+        "Are able to properly set type within your work",
+        "Are able to choose a adequate typeface for the message in your design",
+        "You can assign colors to elements to add value to the message"
+      ]
+    },
+    {
+      "name": "Dive deeper into each basic design topic",
+      "resources": [
+        {
+          "title": "Visual Principles on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Grid Systems on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Typography on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Information Design",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "name": "Dive into designing for the web",
+      "resources": [
+        {
+          "title": "A Dao of Web Design",
+          "uri": "http://www.alistapart.com/articles/dao/"
+        },
+        {
+          "title": "Read A Beginner’s Guide to HTML & CSS",
+          "uri": "http://learn.shayhowe.com/"
+        },
+        {
+          "title": "Complete Code Academy Web Fundamentals",
+          "uri": "http://www.codecademy.com/tracks/web"
+        },
+        {
+          "title": "Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3",
+          "uri": "http://amzn.com/0321808355"
+        }
+      ],
+      "validations": [
+        "Semantically markup a document in HTML5",
+        "Understand what all of the standard HTML elements (head, body, div, p, h1-h6, ul, ol, li, span, strong, ) are and when to use them",
+        "View source on a web page and understand it."
+      ]
+    },
+    {
+      "name": "Dive deeper into web and application design",
+      "resources": [
+        {
+          "title": "HTML on Learn",
+          "uri": ""
+        },
+        {
+          "title": "CSS on Learn",
+          "uri": ""
+        }
+      ]
+    }
+  ]
+}
